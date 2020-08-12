@@ -1,0 +1,30 @@
+{
+    "name": "dcat-admin-extension/setting",
+    "description": "Dcat Admin 系统配置扩展",
+    "type": "library",
+    "keywords": [
+        "dcat-admin",
+        "extension",
+        "seting"
+    ],
+    "homepage": "https://github.com/Abbotton/dcat-admin-setting-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abbotton",
+            "email": "uctoo@foxmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "~1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dcat\\Admin\\Extension\\Setting\\": "src/"
+        },
+        "files": [
+            "src/bootstrap.php"
+        ]
+    }
+}
