@@ -7,7 +7,7 @@
 
 #### 1、引入扩展包
 ```shell script
-composer require dcat-admin-extension/setting
+composer require abbotton/setting
 ```
 
 #### 2、发布文件

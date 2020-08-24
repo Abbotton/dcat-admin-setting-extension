@@ -1,5 +1,5 @@
 {
-    "name": "dcat-admin-extension/setting",
+    "name": "abbotton/setting",
     "description": "Dcat Admin 系统配置扩展",
     "type": "library",
     "keywords": [
