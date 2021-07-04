@@ -1,3 +1,5 @@
+# 公告：因Dcat Admin自带的系统配置功能已足够好用，足够人性化，所以本仓库停止维护，如有需要请自行fork，感谢各位支持。
+
 ## :clap:Dcat Admin系统配置插件:kissing_heart::kissing_heart:
 
 ### 写在前面
